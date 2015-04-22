@@ -1,1 +1,1 @@
-# easy-migrations
+# Easy Migrations
