@@ -1,4 +1,10 @@
 <?php
+/*
+	@project: easy-migrations
+	@autor: Adriano Ferreira
+	@email: adrianokta@gmail.com
+	@date: 20/04/2015
+*/
 	class create_migrations{
 		public function up(){
 
